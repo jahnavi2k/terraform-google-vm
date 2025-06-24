@@ -22,10 +22,10 @@ spec:
   info:
     title: Compute Instance
     source:
-      repo: https://github.com/terraform-google-modules/terraform-google-vm
+      repo: https://github.com/jahnavi2k/terraform-google-vm
       sourceType: git
       dir: /modules/compute_instance
-    version: 13.3.0
+    version: 13.3.2
     actuationTool:
       flavor: Terraform
       version: ">=1.3.0"
