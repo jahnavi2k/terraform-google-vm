@@ -22,7 +22,7 @@ spec:
   info:
     title: instance_template
     source:
-      repo: https://github.com/jahnavi2k/terraform-google-vm
+      repo: https://github.com/terraform-google-modules/terraform-google-vm
       sourceType: git
       dir: /modules/instance_template
     version: 13.3.0
